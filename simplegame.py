@@ -1,4 +1,4 @@
-'''this is a simple fun game using pygame package. Created on 26-Apr-2020'''
+'''this is a simple fun game created using pygame package. Created on 26-Apr-2020'''
 #import packages
 import pygame
 import random
