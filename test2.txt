@@ -1,0 +1,1 @@
+adding test2.txt to check the git folder
